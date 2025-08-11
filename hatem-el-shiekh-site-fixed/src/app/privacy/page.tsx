@@ -1,0 +1,1 @@
+export default function Page(){return <div className='container py-16'><h1 className='font-serif text-3xl'>Privacy</h1><p className='mt-4 text-black/70'>We respect your privacy. No reselling, no spam.</p></div>}

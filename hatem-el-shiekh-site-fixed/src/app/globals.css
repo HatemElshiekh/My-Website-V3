@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{ @apply bg-base text-base-charcoal; }
+.container{ @apply mx-auto max-w-6xl px-4; }

@@ -1,0 +1,1 @@
+export const metadata={title:'Book'};export default function Book(){return(<div className='container py-16'><h1 className='font-serif text-4xl'>Book a Consultation</h1><p className='mt-4 text-black/70'>Live Google Calendar booking can be enabled later. For now, use the contact form to request a time.</p></div>);}

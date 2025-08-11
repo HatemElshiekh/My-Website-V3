@@ -1,0 +1,1 @@
+export const metadata={title:'Contact'};export default function Contact(){return(<div className='container py-16 max-w-2xl'><h1 className='font-serif text-4xl'>Contact</h1><p className='mt-3 text-black/70'>Tell me what you need. I’ll reply soon.</p></div>);}

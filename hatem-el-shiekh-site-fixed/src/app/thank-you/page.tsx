@@ -1,0 +1,1 @@
+export default function Page(){return <div className='container py-24 text-center'><h1 className='font-serif text-4xl'>Thank you</h1><p className='mt-3 text-black/70'>Your message was received.</p></div>}

@@ -1,0 +1,1 @@
+import type {Config} from 'tailwindcss';const config:Config={darkMode:['class'],content:['./src/**/*.{ts,tsx}'],theme:{extend:{colors:{base:{DEFAULT:'#FAFAF8',charcoal:'#1C1F24',blue:'#0C2A45',gold:'#D4AF37'}},boxShadow:{soft:'0 8px 30px rgba(0,0,0,0.08)'},borderRadius:{'2xl':'1rem','3xl':'1.25rem'}}},plugins:[]};export default config;

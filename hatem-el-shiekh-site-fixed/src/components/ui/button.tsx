@@ -1,0 +1,1 @@
+import * as React from 'react';import {cn} from '@/lib/utils';export function Button({className,...props}:React.ButtonHTMLAttributes<HTMLButtonElement>){return <button className={cn('h-11 px-5 rounded-2xl bg-base-blue text-white hover:brightness-110 transition shadow-soft',className)} {...props}/>;}
